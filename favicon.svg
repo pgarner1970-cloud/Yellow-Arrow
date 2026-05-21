@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-labelledby="title">
+<title>Yellow Arrow icon</title>
+<rect width="256" height="256" rx="56" fill="#071522"/>
+<g fill="#f4b400" opacity="0.88" font-family="Courier New, monospace" font-size="18" font-weight="700">
+  <text x="24" y="72">001011</text>
+  <text x="16" y="104">010111</text>
+  <text x="28" y="136">110100</text>
+  <text x="18" y="168">101011</text>
+  <text x="32" y="200">011100</text>
+</g>
+<path d="M110 52 L212 128 L110 204 L76 204 L158 128 L76 52 Z" fill="#f4b400"/>
+<g fill="#f4b400">
+  <rect x="82" y="66" width="10" height="10"/>
+  <rect x="74" y="96" width="10" height="10"/>
+  <rect x="88" y="126" width="10" height="10"/>
+  <rect x="76" y="156" width="10" height="10"/>
+</g>
+</svg>

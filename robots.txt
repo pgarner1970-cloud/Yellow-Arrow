@@ -1,0 +1,13 @@
+User-agent: *
+Allow: /
+Sitemap: https://www.yellowarrow.co.uk/sitemap.xml
+
+Disallow: /portfolio-admin.html
+
+Disallow: /admin/
+
+Disallow: /assets/data/projects.json
+
+Disallow: /assets/projects/
+
+Disallow: /api/portfolio-projects.php

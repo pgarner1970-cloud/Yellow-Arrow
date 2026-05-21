@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1320 360" role="img" aria-labelledby="title desc">
+<title>Yellow Arrow Technical Services</title>
+<desc>Full Yellow Arrow Technical Services logo with digital binary arrow</desc>
+<defs>
+  <linearGradient id="yg" x1="0" x2="1">
+    <stop offset="0%" stop-color="#ffd84a"/>
+    <stop offset="100%" stop-color="#f4b400"/>
+  </linearGradient>
+</defs>
+
+<g fill="#f4b400" opacity="0.9" font-family="Courier New, monospace" font-size="30" font-weight="700">
+  <text x="40" y="92">0010111001</text>
+  <text x="20" y="136">0101110001</text>
+  <text x="55" y="180">1101001110</text>
+  <text x="32" y="224">1010110100</text>
+  <text x="65" y="268">0111001110</text>
+</g>
+
+<path d="M310 65 L500 180 L310 295 L245 295 L405 180 L245 65 Z" fill="url(#yg)"/>
+<g fill="#f4b400">
+  <rect x="248" y="82" width="17" height="17"/>
+  <rect x="228" y="120" width="17" height="17"/>
+  <rect x="256" y="158" width="17" height="17"/>
+  <rect x="236" y="196" width="17" height="17"/>
+  <rect x="262" y="234" width="17" height="17"/>
+</g>
+
+<text x="555" y="175" fill="#f4b400" font-family="Arial, Helvetica, sans-serif" font-size="118" font-weight="900" letter-spacing="-4">Yellow</text>
+<text x="912" y="175" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="118" font-weight="900" letter-spacing="-4">Arrow</text>
+<text x="867" y="265" text-anchor="middle" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="39" font-weight="600" letter-spacing="13">TECHNICAL SERVICES</text>
+</svg>

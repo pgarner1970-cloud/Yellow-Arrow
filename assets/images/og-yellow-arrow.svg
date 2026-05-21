@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
+<rect width="1200" height="630" fill="#071522"/>
+<circle cx="980" cy="120" r="230" fill="#f6c431" opacity="0.16"/>
+<circle cx="150" cy="540" r="220" fill="#f6c431" opacity="0.08"/>
+<g opacity="0.35" fill="#f6c431" font-family="Courier New, monospace" font-size="28" font-weight="700">
+<text x="82" y="205">1 0 0 1 0 1 1 0 0 1</text>
+<text x="60" y="250">0 0 1 0 1 0 0 1 1 0</text>
+<text x="92" y="295">1 1 0 0 1 1 0 0 0 1</text>
+<text x="72" y="340">0 1 0 0 1 0 1 1 0 0</text>
+</g>
+<path d="M370 155 L610 315 L370 475 L285 475 L492 315 L285 155 Z" fill="#f6c431"/>
+<g fill="#f6c431" opacity="0.9">
+<rect x="245" y="178" width="22" height="22"/><rect x="220" y="228" width="22" height="22"/><rect x="250" y="278" width="22" height="22"/><rect x="225" y="328" width="22" height="22"/><rect x="255" y="378" width="22" height="22"/>
+</g>
+<text x="650" y="300" fill="#f6c431" font-family="Arial, Helvetica, sans-serif" font-size="92" font-weight="900" letter-spacing="-4">Yellow</text>
+<text x="650" y="400" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="92" font-weight="900" letter-spacing="-4">Arrow</text>
+<text x="654" y="466" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="28" letter-spacing="14">TECHNICAL SERVICES</text>
+</svg>
